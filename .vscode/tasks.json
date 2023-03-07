@@ -5,7 +5,7 @@
             "label": "Test exercise 01",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -22,7 +22,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -39,7 +39,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -69,7 +69,7 @@
             "label": "Test exercise 02",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -86,7 +86,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -103,7 +103,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -133,7 +133,7 @@
             "label": "Test exercise 03",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -150,7 +150,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -167,7 +167,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -197,7 +197,7 @@
             "label": "Test exercise 04",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -214,7 +214,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -231,7 +231,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -261,7 +261,7 @@
             "label": "Test exercise 05",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -278,7 +278,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -295,7 +295,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -325,7 +325,7 @@
             "label": "Test exercise 06",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -342,7 +342,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -359,7 +359,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -389,7 +389,7 @@
             "label": "Test exercise 07",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -406,7 +406,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -423,7 +423,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -453,7 +453,7 @@
             "label": "Test exercise 08",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -470,7 +470,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -487,7 +487,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -517,7 +517,7 @@
             "label": "Test exercise 09",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -534,7 +534,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -551,7 +551,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -581,7 +581,7 @@
             "label": "Test exercise 10",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -598,7 +598,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -615,7 +615,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -645,7 +645,7 @@
             "label": "Test exercise 11",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -662,7 +662,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -679,7 +679,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -709,7 +709,7 @@
             "label": "Test exercise 12",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -726,7 +726,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -743,7 +743,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -773,7 +773,7 @@
             "label": "Test exercise 13",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -790,7 +790,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -807,7 +807,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -837,7 +837,7 @@
             "label": "Test exercise 14",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -854,7 +854,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -871,7 +871,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -901,7 +901,7 @@
             "label": "Test exercise 15",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -918,7 +918,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -935,7 +935,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -965,7 +965,7 @@
             "label": "Test exercise 16",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -982,7 +982,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -999,7 +999,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1029,7 +1029,7 @@
             "label": "Test exercise 17",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -1046,7 +1046,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1063,7 +1063,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1093,7 +1093,7 @@
             "label": "Test exercise 18",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -1110,7 +1110,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1127,7 +1127,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1157,7 +1157,7 @@
             "label": "Test exercise 19",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -1174,7 +1174,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1191,7 +1191,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1221,7 +1221,7 @@
             "label": "Test exercise 20",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -1238,7 +1238,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1255,7 +1255,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1285,7 +1285,7 @@
             "label": "Test exercise 21",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -1302,7 +1302,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1319,7 +1319,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1349,7 +1349,7 @@
             "label": "Test exercise 22",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -1366,7 +1366,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1383,7 +1383,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1413,7 +1413,7 @@
             "label": "Test exercise 23",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -1430,7 +1430,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1447,7 +1447,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1477,7 +1477,7 @@
             "label": "Test exercise 24",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -1494,7 +1494,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1511,7 +1511,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1541,7 +1541,7 @@
             "label": "Test exercise 25",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -1558,7 +1558,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1575,7 +1575,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1605,7 +1605,7 @@
             "label": "Test exercise 26",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -1622,7 +1622,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1639,7 +1639,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1669,7 +1669,7 @@
             "label": "Test exercise 27",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -1686,7 +1686,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1703,7 +1703,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1733,7 +1733,7 @@
             "label": "Test exercise 28",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -1750,7 +1750,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1767,7 +1767,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1797,7 +1797,7 @@
             "label": "Test exercise 29",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -1814,7 +1814,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1831,7 +1831,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1861,7 +1861,7 @@
             "label": "Test exercise 30",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -1878,7 +1878,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1895,7 +1895,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1925,7 +1925,7 @@
             "label": "Test exercise 31",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -1942,7 +1942,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1959,7 +1959,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -1989,7 +1989,7 @@
             "label": "Test exercise 32",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -2006,7 +2006,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -2023,7 +2023,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -2053,7 +2053,7 @@
             "label": "Test exercise 33",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -2070,7 +2070,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -2087,7 +2087,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -2117,7 +2117,7 @@
             "label": "Test exercise 34",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -2134,7 +2134,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -2151,7 +2151,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -2181,7 +2181,7 @@
             "label": "Test exercise 35",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -2198,7 +2198,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -2215,7 +2215,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -2245,7 +2245,7 @@
             "label": "Test exercise 36",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -2262,7 +2262,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -2279,7 +2279,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -2309,7 +2309,7 @@
             "label": "Test exercise 37",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -2326,7 +2326,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -2343,7 +2343,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -2373,7 +2373,7 @@
             "label": "Test exercise 38",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -2390,7 +2390,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -2407,7 +2407,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -2437,7 +2437,7 @@
             "label": "Test exercise 39",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -2454,7 +2454,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -2471,7 +2471,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -2501,7 +2501,7 @@
             "label": "Test exercise 40",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -2518,7 +2518,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -2535,7 +2535,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -2565,7 +2565,7 @@
             "label": "Test exercise 41",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -2582,7 +2582,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -2599,7 +2599,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -2629,7 +2629,7 @@
             "label": "Test exercise 42",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -2646,7 +2646,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -2663,7 +2663,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -2693,7 +2693,7 @@
             "label": "Test exercise 43",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -2710,7 +2710,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -2727,7 +2727,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -2757,7 +2757,7 @@
             "label": "Test exercise 44",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pytest",
@@ -2774,7 +2774,7 @@
                 ]
             },
             "linux": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
@@ -2791,7 +2791,7 @@
                 ]
             },
             "osx": {
-                "command": "python3",
+                "command": "py3",
                 "args": [
                     "-m",
                     "pytest",
