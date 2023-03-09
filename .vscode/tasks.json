@@ -5,7 +5,7 @@
             "label": "Run Pydocstyle",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "pydocstyle",
@@ -42,7 +42,7 @@
             "label": "Run flake8",
             "type": "shell",
             "windows": {
-                "command": "python",
+                "command": "py",
                 "args": [
                     "-m",
                     "flake8",
@@ -196,7 +196,6 @@
             "label": "Test exercise",
             "type": "shell",
             "dependsOn": [
-                "Ensure exercise file",
                 "Set up basic testing requirements"
             ],
             "windows": {
